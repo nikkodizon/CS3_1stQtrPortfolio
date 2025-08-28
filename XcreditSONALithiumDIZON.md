@@ -10,3 +10,4 @@ This years 2025 State of the Nation Address (SONA) of the Philippines was a frui
 4. If I had to give 1 word for the Philippines after hearing SONA 2025, it'd be the word "Hope", as this SONA demonstrates a push to enhance the education, healthcare, and livelihoods of us Filipinos
 
 [A Video of SONA 2025](https://www.youtube.com/watch?v=zsZ1T0hsLvA)
+
