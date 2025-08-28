@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <label> What is your greeting?
+            <input id="greeting" />
+        </label>
+
+       <button onclick="checkGreet()"> Show Greeting </button> </body><p> 
+         </p>Result: <span id="greet"> </span> </p>
+
+            <script>
+                function checkGreet() {
+                    let dInput = document.getElementById("greeting").value;
+                    document.getElementById("greet").innerHTML = ` <b> ${dInput} </b>`;
+            }
+        </script>
+    </body>
+</html>
